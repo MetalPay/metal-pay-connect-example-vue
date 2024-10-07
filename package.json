@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "metal-pay-connect-js": "^0.1.24",
     "vue": "^3.2.13"
   },
   "devDependencies": {
